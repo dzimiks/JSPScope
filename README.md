@@ -1,2 +1,3 @@
-# JSPScope
-[Homework 5] College project for Web programming course.
+# JSP Scope
+
+College project for Web programming course.
